@@ -10,3 +10,8 @@ rndを使ってるので、よく同じ曲が選ばれます..</br>
 ・一時停止ボタン（曲が流れているときに押すと、曲を一時停止します。）</br>
 </br>
 音楽をよくダウンロードする人にとっては重宝するアプリだと思うので、よかったら使ってみてください！</br>
+<hr>
+<footer>&copy; 2025  butairus.hp </br>
+	<a href="https://x.com/butairus" class="twitter" target="_blank" >Twitter(Twitter)</a></br>
+<a href="https://steamcommunity.com/id/butairus/" class="steam" target="_blank" >steam</a></br>
+ </footer>
